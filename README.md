@@ -1,6 +1,4 @@
-<h1 align="center">TodoApp</h1>
-
-
+<h1 align="center">My_Todolist</h1>
 
 
 ## Table of Contents
@@ -37,7 +35,6 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 ```bash
 
 $ git clone https://github.com/Meltem-Karaagac/React_native_my_todolist
-
 
 $ npm install
 
