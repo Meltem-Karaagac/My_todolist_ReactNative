@@ -1,4 +1,4 @@
-<h1 align="center">My_Todolist</h1>
+<h1 align="center">My Todolist</h1>
 
 
 ## Table of Contents
@@ -49,6 +49,6 @@ $ npx react-native run-ios
 
 ## Contact
 
-- GitHub [@your-Meltem-Karaagac](https://github.com/Meltem-Karaagac)
-- Linkedln [@your-linkedln](https://www.linkedin.com/in/meltem-karaagac/)
+- GitHub [Meltem-Karaagac](https://github.com/Meltem-Karaagac)
+- Linkedln [meltem-karaagac](https://www.linkedin.com/in/meltem-karaagac/)
 
